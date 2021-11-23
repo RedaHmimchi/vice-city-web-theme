@@ -1,4 +1,9 @@
-@import url('http://fonts.cdnfonts.com/css/pricedown');
+@font-face { 
+    font-family: 'Pricedown';
+    src: url('./pricedown.ttf') format('truetype');
+    
+  }
+
 .html{
     height: 100%;
     
@@ -24,7 +29,7 @@ footer{
     bottom: 0px;
     color: white;
     width: 100%;
-    font-family: 'Pricedown Bl', sans-serif;
+    font-family: 'Pricedown', sans-serif;
     font-size: 20px;
                                                 
 }
@@ -82,7 +87,7 @@ footer{
     color: white;
     font-family: "Chau Philomene One";
     padding: 10px;
-    font-family: 'Pricedown Bl', sans-serif;
+    font-family: 'Pricedown', sans-serif;
     font-size: 40px;
 
 }
@@ -91,7 +96,7 @@ footer{
     color: white;
     font-family: "Chau Philomene One";
     padding: 10px;
-    font-family: 'Pricedown Bl', sans-serif;
+    font-family: 'Pricedown', sans-serif;
     font-size: 40px;
 
 }
@@ -101,7 +106,7 @@ footer{
     color: white;
     font-family: "Chau Philomene One";
     padding: 10px;
-    font-family: 'Pricedown Bl', sans-serif;
+    font-family: 'Pricedown', sans-serif;
     font-size: 40px;
 
 }
@@ -110,7 +115,7 @@ footer{
     color: white;
     font-family: "Chau Philomene One";
     padding: 10px;
-    font-family: 'Pricedown Bl', sans-serif;
+    font-family: 'Pricedown', sans-serif;
     font-size: 40px;
 
 }
@@ -134,7 +139,7 @@ li {
     color: white;
     font-family: "Chau Philomene One";
     padding: 10px;
-    font-family: 'Pricedown Bl', sans-serif;
+    font-family: 'Pricedown', sans-serif;
     font-size: 40px;
 
 }
@@ -182,7 +187,7 @@ li {
     color: white;
     font-family: "Chau Philomene One";
     padding: 10px;
-    font-family: 'Pricedown Bl', sans-serif;
+    font-family: 'Pricedown', sans-serif;
     font-size: 80px;
 
   }

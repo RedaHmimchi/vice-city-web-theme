@@ -11,7 +11,7 @@
 }
 .b0dy{
     background: rgb(0,0,0);
-    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(141,0,118,1) 100%);
+background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(141,0,118,1) 50%, rgba(0,0,0,1) 100%);
     min-height: 100vh;
 
 }
@@ -22,12 +22,13 @@ footer{
     width: 100%;
 }
 .f00ter{
-    position: fixed;
+    position: relative;
     bottom: 0px;
     color: white;
     width: 100%;
     font-family: 'Pricedown', sans-serif;
     font-size: 20px;
+    text-align: center;
                                                 
 }
 /*
@@ -51,9 +52,9 @@ footer{
     color: white;
     font-family: 'Pricedown', sans-serif;
     font-size: 40px;
-
+    position: absolute;
     text-align: center;
-
+    top: 10px;
 }
 
 .h1{
@@ -223,6 +224,18 @@ li {
     justify-content: center;
     align-items: center;
   }
+  p{
+    font-family: 'Chau Philomene One', sans-serif;
+    color: white;
+    font-size: 200%;
+    margin-bottom: 200px;
+  }
+  .itmzclass{
+    position: relative;
+    height: 100vh;
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
   
-  
- 
